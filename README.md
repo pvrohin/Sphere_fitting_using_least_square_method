@@ -2,3 +2,5 @@
 
 X,Y,Z are the point cloud information of the mask to which we are fitting the sphere.
 Run the python file to get radius and centre of the sphere.
+
+<img src="spherefitting.JPG" width="300">
